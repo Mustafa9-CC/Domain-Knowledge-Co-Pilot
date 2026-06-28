@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+python-jose[cryptography]
+bcrypt
+pypdf
+python-docx
+python-multipart
+chromadb
+sentence-transformers
+httpx
+python-dotenv
+rank-bm25
+psycopg2-binary
+numpy
